@@ -1,0 +1,272 @@
+{
+  "main": {
+    "id": "83504bb6efcbf05b",
+    "type": "split",
+    "children": [
+      {
+        "id": "4f76d9e6e14056a8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "626167e72a0dcaca",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "resources/courses/🎓 Kotlin для Java-разработчиков.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "🎓 Kotlin для Java-разработчиков"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4cc0cb95196a0b69",
+    "type": "split",
+    "children": [
+      {
+        "id": "9f91bb9d05d2d24f",
+        "type": "tabs",
+        "dimension": 68.60321384425217,
+        "children": [
+          {
+            "id": "d96a6b159bff4704",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": true
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "29f56a943a843fdc",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#tutorial",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          }
+        ]
+      },
+      {
+        "id": "d43413bf2ed07631",
+        "type": "tabs",
+        "dimension": 31.396786155747836,
+        "children": [
+          {
+            "id": "59c488e8f8fb3591",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {},
+              "icon": "clock",
+              "title": "Recent Files"
+            }
+          },
+          {
+            "id": "35f5ef32ea43f099",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "308ca4480fa7e49c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "9d4998a92529c8f2",
+    "type": "split",
+    "children": [
+      {
+        "id": "47eaa6a9f481ea9b",
+        "type": "tabs",
+        "dimension": 65.49295774647888,
+        "children": [
+          {
+            "id": "b44ee13e6325c2b7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "_metadata/templates/person_template.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for person_template"
+            }
+          },
+          {
+            "id": "4b834ebb86a8e27c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "_metadata/templates/person_template.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from person_template"
+            }
+          },
+          {
+            "id": "d859362e459977a8",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "_metadata/templates/person_template.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of person_template"
+            }
+          },
+          {
+            "id": "9f1823d99eba7c4d",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          },
+          {
+            "id": "8687e05acf88198f",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {},
+              "icon": "checkmark",
+              "title": "Todo List"
+            }
+          }
+        ],
+        "currentTab": 3
+      },
+      {
+        "id": "3681e425d437d99d",
+        "type": "tabs",
+        "dimension": 34.50704225352113,
+        "children": [
+          {
+            "id": "d64c1af0477d2290",
+            "type": "leaf",
+            "state": {
+              "type": "timer-view",
+              "state": {},
+              "icon": "timer",
+              "title": "Timer"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 269.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "obsidian-kanban:Create new board": false,
+      "obsidian-full-calendar:Open Full Calendar": false,
+      "pomodoro-timer:Toggle timer panel": false,
+      "periodic-notes:Open today": false
+    }
+  },
+  "active": "626167e72a0dcaca",
+  "lastOpenFiles": [
+    "resources/videos/🎦 Второй Мозг. Как думать меньше, а знать больше.md",
+    "resources/videos/🎦 Productivity Zettelkasten в Obsidian.md",
+    "resources/videos/🎦 Курс по Kubernetes для Начинающих.md",
+    "resources/videos/🎦 Как делать заметки. Почему Obsidian..md",
+    "home/База знаний IT.md",
+    "topics/Персональная база знаний.md",
+    "topics/Kubernetes.md",
+    "home/Материалы для изучения.md",
+    "home/Java developer roadmap.canvas",
+    "README.md",
+    "_metadata/templates/sprint_template.md",
+    "_metadata/templates/task_template.md",
+    "_metadata/templates/video_template.md",
+    "_metadata/templates/topic_template.md",
+    "_metadata/templates/epic_template.md",
+    "_metadata/templates/person_template.md",
+    "work/epics/Новая большая крутая фича.md",
+    "work/Мои задачи.md",
+    "work/people/Питер Паркер.md",
+    "work/meetings/2025-06-30 1-1 Питер Паркер.md",
+    "work/sprints/Sprint 11.md",
+    "work/journal/2025-07-03.md",
+    "work/notes/Полезная информация.md",
+    "work/meetings/2025-07-01 Дополнительный грумминг новой фичи.md",
+    "work/tasks/Новая рест-ручка.md",
+    "work/tasks/Добавить поле в таблицу.md",
+    "work/journal/2025-07-01.md",
+    "home",
+    "_metadata/scripts",
+    "_metadata/files",
+    "_metadata/templates",
+    "resources/courses",
+    "resources/videos",
+    "resources/articles",
+    "resources/books",
+    "notes",
+    "_metadata"
+  ]
+}

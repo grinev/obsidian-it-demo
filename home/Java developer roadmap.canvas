@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"928e658740dbdec6","type":"text","text":"**General Development Skills**","x":-220,"y":-367,"width":180,"height":100,"color":"3"},
+		{"id":"18c6e3a35a656d43","type":"text","text":"- Git\n- HTTP/HTTPS\n- Algorithms","x":-580,"y":-560,"width":240,"height":165},
+		{"id":"8c6d0888377068c3","type":"text","text":"**Databases**","x":-227,"y":-597,"width":187,"height":120,"color":"5"},
+		{"id":"16a8a69186d88f71","x":-573,"y":-760,"width":233,"height":119,"type":"text","text":"- SQL\n- NoSQL"}
+	],
+	"edges":[
+		{"id":"eb1b5a6f6c9bc647","fromNode":"928e658740dbdec6","fromSide":"left","toNode":"18c6e3a35a656d43","toSide":"right"},
+		{"id":"7719d90876a452ec","fromNode":"8c6d0888377068c3","fromSide":"left","toNode":"16a8a69186d88f71","toSide":"right"},
+		{"id":"0093840583c19cec","fromNode":"928e658740dbdec6","fromSide":"top","toNode":"8c6d0888377068c3","toSide":"bottom"}
+	]
+}
