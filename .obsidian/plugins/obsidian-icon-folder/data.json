@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "TiLayoutBoardSplit",
-      "LiHome",
-      "LiCode2",
-      "TiPaperclip",
-      "FarCopy"
+      "LiCopy",
+      "TiSubtask",
+      "TiLayoutBoard",
+      "TiCheckbox",
+      "TiFriends"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -36,7 +36,7 @@
   },
   "resources": "LiLibrary",
   "work": "LiBriefcaseBusiness",
-  "notes": "TiNotes",
+  "notes": "TiNote",
   "topics": "SiWikipedia",
   "_metadata": "LiSettings",
   "resources/articles": "LiNewspaper",
@@ -48,12 +48,12 @@
   "work/notes": "TiNote",
   "work/people": "TiFriends",
   "work/tasks": "TiCheckbox",
-  "work/epics": "TiSubtask",
   "work/sprints": "LiFlag",
-  "_metadata/templates": "FarCopy",
+  "_metadata/templates": "LiCopy",
   "_metadata/files": "TiPaperclip",
   "_metadata/scripts": "LiCode2",
   "home": "LiHome",
-  "work/Мои задачи.md": "TiLayoutBoardSplit",
-  "home/Материалы для изучения.md": "TiLayoutBoardSplit"
+  "work/Мои задачи.md": "TiLayoutBoard",
+  "home/Java developer roadmap.canvas": "TiLayoutBoard",
+  "work/epics": "TiSubtask"
 }

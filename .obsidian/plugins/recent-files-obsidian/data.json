@@ -1,6 +1,158 @@
 {
   "recentFiles": [
     {
+      "basename": "2025-07-02",
+      "path": "work/journal/2025-07-02.md"
+    },
+    {
+      "basename": "2025-07-01",
+      "path": "work/journal/2025-07-01.md"
+    },
+    {
+      "basename": "2025-07-03",
+      "path": "work/journal/2025-07-03.md"
+    },
+    {
+      "basename": "Добавить поле в таблицу",
+      "path": "work/tasks/Добавить поле в таблицу.md"
+    },
+    {
+      "basename": "Мои задачи",
+      "path": "work/Мои задачи.md"
+    },
+    {
+      "basename": "Материалы для изучения",
+      "path": "home/Материалы для изучения.md"
+    },
+    {
+      "basename": "Новая большая крутая фича",
+      "path": "work/epics/Новая большая крутая фича.md"
+    },
+    {
+      "basename": "Новая рест-ручка",
+      "path": "work/tasks/Новая рест-ручка.md"
+    },
+    {
+      "basename": "Питер Паркер",
+      "path": "work/people/Питер Паркер.md"
+    },
+    {
+      "basename": "2025-06-30 1-1 Питер Паркер",
+      "path": "work/meetings/2025-06-30 1-1 Питер Паркер.md"
+    },
+    {
+      "basename": "📘 Создай свой второй мозг! Как построить систему поиска и организации информации, чтобы раскрыть ваш креативный потенциал",
+      "path": "resources/books/📘 Создай свой второй мозг! Как построить систему поиска и организации информации, чтобы раскрыть ваш креативный потенциал.md"
+    },
+    {
+      "basename": "book_template",
+      "path": "_metadata/templates/book_template.md"
+    },
+    {
+      "basename": "article_template",
+      "path": "_metadata/templates/article_template.md"
+    },
+    {
+      "basename": "video_template",
+      "path": "_metadata/templates/video_template.md"
+    },
+    {
+      "basename": "📘 Java. Полное руководство",
+      "path": "resources/books/📘 Java. Полное руководство.md"
+    },
+    {
+      "basename": "2025-07-02 Финальный грумминг новой фичи",
+      "path": "work/meetings/2025-07-02 Финальный грумминг новой фичи.md"
+    },
+    {
+      "basename": "База знаний IT",
+      "path": "home/База знаний IT.md"
+    },
+    {
+      "basename": "Kubernetes",
+      "path": "topics/Kubernetes.md"
+    },
+    {
+      "basename": "📰 Контейнеризация понятным языком. Хранение данных и безопасность в Kubernetes, зачем нужен Ansible",
+      "path": "resources/articles/📰 Контейнеризация понятным языком. Хранение данных и безопасность в Kubernetes, зачем нужен Ansible.md"
+    },
+    {
+      "basename": "📘 Паттерны Kubernetes. Шаблоны разработки собственных облачных приложений",
+      "path": "resources/books/📘 Паттерны Kubernetes. Шаблоны разработки собственных облачных приложений.md"
+    },
+    {
+      "basename": "note_template",
+      "path": "_metadata/templates/note_template.md"
+    },
+    {
+      "basename": "README",
+      "path": "README.md"
+    },
+    {
+      "basename": "GTD",
+      "path": "topics/GTD.md"
+    },
+    {
+      "basename": "Domain Driven Design",
+      "path": "topics/Domain Driven Design.md"
+    },
+    {
+      "basename": "Паттерны проектирования",
+      "path": "topics/Паттерны проектирования.md"
+    },
+    {
+      "basename": "Микросервисы",
+      "path": "topics/Микросервисы.md"
+    },
+    {
+      "basename": "Go",
+      "path": "topics/Go.md"
+    },
+    {
+      "basename": "Docker",
+      "path": "topics/Docker.md"
+    },
+    {
+      "basename": "Ansible",
+      "path": "topics/Ansible.md"
+    },
+    {
+      "basename": "Redis",
+      "path": "topics/Redis.md"
+    },
+    {
+      "basename": "PostgeSQL",
+      "path": "topics/PostgeSQL.md"
+    },
+    {
+      "basename": "MongoDB",
+      "path": "topics/MongoDB.md"
+    },
+    {
+      "basename": "Java developer roadmap",
+      "path": "home/Java developer roadmap.canvas"
+    },
+    {
+      "basename": "Полезные команды kubectl",
+      "path": "notes/Полезные команды kubectl.md"
+    },
+    {
+      "basename": "Youtube-каналы про Obsidian",
+      "path": "notes/Youtube-каналы про Obsidian.md"
+    },
+    {
+      "basename": "Персональная база знаний",
+      "path": "topics/Персональная база знаний.md"
+    },
+    {
+      "basename": "🎦 Курс по Kubernetes для Начинающих",
+      "path": "resources/videos/🎦 Курс по Kubernetes для Начинающих.md"
+    },
+    {
+      "basename": "Kotlin",
+      "path": "topics/Kotlin.md"
+    },
+    {
       "basename": "🎓 Kotlin для Java-разработчиков",
       "path": "resources/courses/🎓 Kotlin для Java-разработчиков.md"
     },
@@ -13,36 +165,8 @@
       "path": "resources/videos/🎦 Productivity Zettelkasten в Obsidian.md"
     },
     {
-      "basename": "🎦 Курс по Kubernetes для Начинающих",
-      "path": "resources/videos/🎦 Курс по Kubernetes для Начинающих.md"
-    },
-    {
       "basename": "🎦 Как делать заметки. Почему Obsidian.",
       "path": "resources/videos/🎦 Как делать заметки. Почему Obsidian..md"
-    },
-    {
-      "basename": "База знаний IT",
-      "path": "home/База знаний IT.md"
-    },
-    {
-      "basename": "Персональная база знаний",
-      "path": "topics/Персональная база знаний.md"
-    },
-    {
-      "basename": "Kubernetes",
-      "path": "topics/Kubernetes.md"
-    },
-    {
-      "basename": "Материалы для изучения",
-      "path": "home/Материалы для изучения.md"
-    },
-    {
-      "basename": "Java developer roadmap",
-      "path": "home/Java developer roadmap.canvas"
-    },
-    {
-      "basename": "README",
-      "path": "README.md"
     },
     {
       "basename": "sprint_template",
@@ -51,10 +175,6 @@
     {
       "basename": "task_template",
       "path": "_metadata/templates/task_template.md"
-    },
-    {
-      "basename": "video_template",
-      "path": "_metadata/templates/video_template.md"
     },
     {
       "basename": "topic_template",
@@ -69,136 +189,12 @@
       "path": "_metadata/templates/person_template.md"
     },
     {
-      "basename": "Новая большая крутая фича",
-      "path": "work/epics/Новая большая крутая фича.md"
-    },
-    {
-      "basename": "Мои задачи",
-      "path": "work/Мои задачи.md"
-    },
-    {
-      "basename": "Питер Паркер",
-      "path": "work/people/Питер Паркер.md"
-    },
-    {
-      "basename": "2025-06-30 1-1 Питер Паркер",
-      "path": "work/meetings/2025-06-30 1-1 Питер Паркер.md"
-    },
-    {
       "basename": "Sprint 11",
       "path": "work/sprints/Sprint 11.md"
     },
     {
-      "basename": "2025-07-03",
-      "path": "work/journal/2025-07-03.md"
-    },
-    {
       "basename": "Полезная информация",
       "path": "work/notes/Полезная информация.md"
-    },
-    {
-      "basename": "2025-07-01 Дополнительный грумминг новой фичи",
-      "path": "work/meetings/2025-07-01 Дополнительный грумминг новой фичи.md"
-    },
-    {
-      "basename": "Новая рест-ручка",
-      "path": "work/tasks/Новая рест-ручка.md"
-    },
-    {
-      "basename": "Добавить поле в таблицу",
-      "path": "work/tasks/Добавить поле в таблицу.md"
-    },
-    {
-      "basename": "2025-07-01",
-      "path": "work/journal/2025-07-01.md"
-    },
-    {
-      "basename": "2025-07-02",
-      "path": "work/journal/2025-07-02.md"
-    },
-    {
-      "basename": "2025-W27",
-      "path": "work/journal/2025-W27.md"
-    },
-    {
-      "basename": "2025-06-30 Грумминг новой фичи",
-      "path": "work/meetings/2025-06-30 Грумминг новой фичи.md"
-    },
-    {
-      "basename": "2025-07-01 Обсуждение квартальных целей",
-      "path": "work/meetings/2025-07-01 Обсуждение квартальных целей.md"
-    },
-    {
-      "basename": "Sprint 12",
-      "path": "work/sprints/Sprint 12.md"
-    },
-    {
-      "basename": "Youtube-каналы про Obsidian",
-      "path": "notes/Youtube-каналы про Obsidian.md"
-    },
-    {
-      "basename": "2025-07-02 Финальный грумминг новой фияи",
-      "path": "work/meetings/2025-07-02 Финальный грумминг новой фияи.md"
-    },
-    {
-      "basename": "Obsidian",
-      "path": "topics/Obsidian.md"
-    },
-    {
-      "basename": "Полезные команды kubectl",
-      "path": "notes/Полезные команды kubectl.md"
-    },
-    {
-      "basename": "📘 Java. Полное руководство",
-      "path": "resources/books/📘 Java. Полное руководство.md"
-    },
-    {
-      "basename": "note_template",
-      "path": "_metadata/templates/note_template.md"
-    },
-    {
-      "basename": "📰 Как мог бы выглядеть Kubernetes 2.0",
-      "path": "resources/articles/📰 Как мог бы выглядеть Kubernetes 2.0.md"
-    },
-    {
-      "basename": "article_template",
-      "path": "_metadata/templates/article_template.md"
-    },
-    {
-      "basename": "Java",
-      "path": "topics/Java.md"
-    },
-    {
-      "basename": "📰 Вышла Java 24",
-      "path": "resources/articles/📰 Вышла Java 24.md"
-    },
-    {
-      "basename": "📰 Цикл статей про Obsidian и Zettelcastel от flowing_abyss на Хабре",
-      "path": "resources/articles/📰 Цикл статей про Obsidian и Zettelcastel от flowing_abyss на Хабре.md"
-    },
-    {
-      "basename": "📰 Что нового в java 17",
-      "path": "resources/articles/📰 Что нового в java 17.md"
-    },
-    {
-      "basename": "📘 Создай свой второй мозг! Как построить систему поиска и организации информации, чтобы раскрыть ваш креативный потенциал",
-      "path": "resources/books/📘 Создай свой второй мозг! Как построить систему поиска и организации информации, чтобы раскрыть ваш креативный потенциал.md"
-    },
-    {
-      "basename": "Kotlin",
-      "path": "topics/Kotlin.md"
-    },
-    {
-      "basename": "Zettelkasten",
-      "path": "topics/Zettelkasten.md"
-    },
-    {
-      "basename": "book_template",
-      "path": "_metadata/templates/book_template.md"
-    },
-    {
-      "basename": "daily_note_template",
-      "path": "_metadata/templates/daily_note_template.md"
     }
   ],
   "omittedPaths": [],
